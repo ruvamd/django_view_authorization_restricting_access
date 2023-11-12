@@ -1,0 +1,2 @@
+# django_view_authorization_restricting_access
+Django View Authorization: Restricting Access
